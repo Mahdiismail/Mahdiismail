@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mahdiismail
-- 👀 I’m interested in Coding,programmming
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @MahdiIsmailLaskar
+- 👀 I’m talk about Data Science,Data Analysis,Data Visualization
+- 🌱 I’m currently learning Power BI,Tableu
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me # minspiration498@gmail.com
 
